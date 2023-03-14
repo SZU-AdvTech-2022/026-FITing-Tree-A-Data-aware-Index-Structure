@@ -1,0 +1,8 @@
+@inproceedings{REPO-026,
+    author = "Galakatos, Alex and Markovitch, Michael and Binnig, Carsten and Fonseca, Rodrigo and Kraska, Tim",
+    booktitle = "Proceedings of the 2019 International Conference on Management of Data",
+    numpages = "18",
+    pages = "1189¨C1206",
+    title = "{FITing-Tree: A Data-aware Index Structure}",
+    year = "2019"
+}
